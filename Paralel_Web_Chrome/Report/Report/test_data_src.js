@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\JonathanRobertPutera\\Documents\\UFT One\\Paralel Test\\Paralel_Web_Chrome\\Report',namePairs:[]}]};

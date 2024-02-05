@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-11-09 13:42:24</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>2ebad93e3c5340578816672865c7a059</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>118.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>https://uibank.uipath.com/</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-11-09 13:42:38</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>fe9f2b57351f48c9bed707b42aeb98fa</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Paralel_Web_Chrome</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2023</ToolVersion>
+    <ToolVersionStringLiteral>2023</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-11-09 13:42:23</StartTime>
+    <Duration>15</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>e309405d41bd42dd84268108ce081a15</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+07:00:00</Timezone>
+      <Locale>English (Indonesia)</Locale>
+      <User>AzureAD\JonathanRobertPutera</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16076</TotalMemory>
+      <HostName>\JONATHAN</HostName>
+      <OSInfo>Windows 11 22H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Report</ResultName>
+    <RunStartTime>2023-11-09 13:42:23</RunStartTime>
+    <Timezone>+07:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2023</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2023</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
